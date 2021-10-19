@@ -1,2 +1,21 @@
 
+# 01 Renombrar variables
+
+#' Este scrip se va utilizar para renombrar las variables de la base de datos
+#' evaluacion_enlaces_admon 
+
+# Ctrl + shift + R
+
+# Importar librerías ------------------------------------------------------
+library(tidyverse)
+
+
+
+# alt + -
+# Importar base de datos --------------------------------------------------
+df_eval_admon <- read.csv(file = "data-raw/")
+
+
+
+
 
