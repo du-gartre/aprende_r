@@ -1,0 +1,32 @@
+{
+    "id": "C43AD54C",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1634615719454.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "df_codificado",
+        "caption": "df_codificado",
+        "totalObservations": "31",
+        "displayedObservations": "31",
+        "variables": "29",
+        "cacheKey": "76AA78A4",
+        "object": "df_codificado",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=df_codificado&cache_key=76AA78A4&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2478217245485265507,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1634615719454,
+    "read_only": false,
+    "read_only_alternatives": []
+}

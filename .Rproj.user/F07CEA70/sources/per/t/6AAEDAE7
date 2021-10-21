@@ -1,0 +1,32 @@
+{
+    "id": "6AAEDAE7",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1634612313175.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "df_eval_admon",
+        "caption": "df_eval_admon",
+        "totalObservations": "31",
+        "displayedObservations": "31",
+        "variables": "29",
+        "cacheKey": "199F467F",
+        "object": "df_eval_admon",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=df_eval_admon&cache_key=199F467F&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2314885530818453536,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1634612313175,
+    "read_only": false,
+    "read_only_alternatives": []
+}
