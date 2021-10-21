@@ -3,7 +3,7 @@
     "path": "~/GitHub/aprende_r/R_Oscar/01-renombrar_variables.R",
     "project_path": "R_Oscar/01-renombrar_variables.R",
     "type": "r_source",
-    "hash": "3721767422",
+    "hash": "652986414",
     "contents": "",
     "dirty": false,
     "created": 1634611336986.0,
@@ -11,16 +11,16 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "176,0",
-        "scrollLine": "159",
+        "cursorPosition": "11,2",
+        "scrollLine": "3",
         "docOutlineVisible": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1634662612,
+    "lastKnownWriteTime": 1634785134,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1634662612905,
+    "last_content_update": 1634785134,
     "read_only": false,
     "read_only_alternatives": []
 }
